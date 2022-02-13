@@ -2,11 +2,16 @@
 - Collision vom alten Heap (Kuhhof) /
 - Straßenlampen /
 - Bäume /
+- Lampen Schule testen /
 - Hofsilo (Siloanlage erneuert) /
 -- Fahne erneuert /
 -- neue Gosse verbaut /
 -- Schranke mit funktion verbaut vor der Gosse /
-- Fricke Fahne erneuert
+- Fricke Fahne erneuert /
+- Schranke Hofsilo fixen
+- Colision Hofsilo fixen
+- Silo nicht sichtbar
+- Hofsilo Spawnpunkt hinzufügen
 
 - SPLINES !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 - Neune map_PDA erstellen
@@ -21,9 +26,7 @@
 - Diverse Texturprobleme beheben
 
 ----- Testen -----
-1. Lampen Schule
-2. Splines
-
+1. Splines
 
 ----- Placeables Erledigen -----
 - BGA /
