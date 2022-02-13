@@ -1,25 +1,37 @@
+- SHOP PLÄTZE DREHEN /
+- Collision vom alten Heap (Kuhhof) /
 - Straßenlampen /
 - Bäume /
-- map_PDA
 
-- Monitor prüfen
-- diverse lampen prüfen
+- SPLINES !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+- Neune map_PDA erstellen
+- Monitor beim Händler prüfen
+- diverse Lampen prüfen
 - Bäume prüfen
 - Lampen platzieren am Haus (inGame) und dann übertragen
 - Lampen Kirche , Händler platzierne (inGame) und übertragen
 - Tankstelle Dorf Licht
-
-- SPLINES !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 - Parkende Autos
-- SHOP PLÄTZE DREHEN
 - Schilder Textur (verschmutzte Fahrbahn)
-- Collision vom alten Heap (Kuhhof) /
+- Diverse Texturprobleme beheben
 
 ----- Testen -----
 1. Lampen Schule
 2. Splines
 
 
------ Erledigen -----
--- Schweinezucht
-- Futtersilo mit Schweinefutter platzieren (pigFood)
+----- Placeables Erledigen -----
+- BGA /
+- Kuhhof /
+- Hühner /
+- Tankstellen /
+- Werkstätten /
+- Schweinezucht  /
+-- Futtersilo mit Schweinefutter platzieren (pigFood) /
+
+- Hofsilo
+- Güllelager
+- Raiffeisen
+- Generelle Kauf.- Verkaufstationen
+- Wasserfüllstationen
+- Schafe
