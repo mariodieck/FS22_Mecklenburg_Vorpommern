@@ -16,9 +16,11 @@
 - Probenehmer auf Hofsilo animieren /
 - Waage Hofsilo hinzugefügt /
 - Schranken auf Hofsilo kleiner scalieren /
-- Strohballen aus Basegame am Keilsilo auf dem Kuhhof plazieren
-- Parkende Autos setzen (Splines/trafficSystem/parkedCars)
+- Kuhhof Strohballen aus Basegame am Keilsilo auf dem Kuhhof plazieren
+- Kuhhof Waschplatz anpassen am Boden
+- Kuhhof Umrandung beim Keilsilo anpassen
 
+- Parkende Autos setzen (Splines/trafficSystem/parkedCars)
 
 - SPLINES !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 - Neue map_PDA erstellen
