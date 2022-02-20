@@ -15,11 +15,13 @@
 - Lampem am Hofsilo hinzufügen /
 - Probenehmer auf Hofsilo animieren /
 - Waage Hofsilo hinzugefügt /
-- Schranken auf Hofsilo kleiner scalieren
+- Schranken auf Hofsilo kleiner scalieren /
+- Strohballen aus Basegame am Keilsilo auf dem Kuhhof plazieren
+- Parkende Autos setzen (Splines/trafficSystem/parkedCars)
 
 
 - SPLINES !!!!!!!!!!!!!!!!!!!!!!!!!!!!
-- Neune map_PDA erstellen
+- Neue map_PDA erstellen
 - Monitor beim Händler prüfen
 - diverse Lampen prüfen
 - Bäume prüfen
@@ -41,11 +43,10 @@
 - Werkstätten /
 - Schweinezucht  /
 -- Futtersilo mit Schweinefutter platzieren (pigFood) /
+- Hofsilo /
+- Schafe /
 
-- Hofsilo
-- Güllelager
 - Raiffeisen
 - Generelle Kauf.- Verkaufstationen
 - Wasserfüllstationen
-- Schafe
-- Strohballen aus Basegame am Keilsilo auf dem Kuhhof plazieren ?
+- Güllelager
