@@ -16,21 +16,24 @@
 - Probenehmer auf Hofsilo animieren /
 - Waage Hofsilo hinzugefügt /
 - Schranken auf Hofsilo kleiner scalieren /
-- Kuhhof Strohballen aus Basegame am Keilsilo auf dem Kuhhof plazieren
-- Kuhhof Waschplatz anpassen am Boden
-- Kuhhof Umrandung beim Keilsilo anpassen
+- Kuhhof Strohballen aus Basegame am Keilsilo auf dem Kuhhof plazieren /
+- Kuhhof Waschplatz anpassen am Boden /
+- Kuhhof Umrandung beim Keilsilo anpassen /
+- Schafweide Spawnpunkt anpassen /
+- Bienen beim Kuhhof hinzugefügt /
+- Monitor beim Händler prüfen (streamShader nutzen) /
 
+
+- Container textur ändern
 - Parkende Autos setzen (Splines/trafficSystem/parkedCars)
-
-- SPLINES !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+- SPLINES anpassen (Fußgänger)
 - Neue map_PDA erstellen
-- Monitor beim Händler prüfen
+
 - diverse Lampen prüfen
-- Bäume prüfen
+- Bäume prüfen (evtl. skalieren auf 1 1 1)
 - Lampen platzieren am Haus (inGame) und dann übertragen
 - Lampen Kirche , Händler platzierne (inGame) und übertragen
 - Tankstelle Dorf Licht
-- Parkende Autos
 - Schilder Textur (verschmutzte Fahrbahn)
 - Diverse Texturprobleme beheben
 
