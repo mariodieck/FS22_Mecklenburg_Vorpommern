@@ -23,6 +23,9 @@
 - Bienen beim Kuhhof hinzugefügt /
 - Monitor beim Händler prüfen (streamShader nutzen) /
 
+- Feld 4 wachsen die Früchte nur auf dem halben Feld
+- Error: No depth map available, but shape 'smokeEffectBack' (smokeEffectBackShape) with material 'unloadSmoke_mat' uses a custom shader which requires reading depth data.
+- Warning: Shape from 'map.i3d.shapes' too big (11325 KB). Maximum supported size on Consoles is 8192 KB.
 
 - Container textur ändern
 - Parkende Autos setzen (Splines/trafficSystem/parkedCars)
@@ -40,8 +43,10 @@
 ----- Testen -----
 1. Splines
 
+
 ----- Placeables Erledigen -----
 - BGA /
+- BGA Fahrsilos /
 - Kuhhof /
 - Hühner /
 - Tankstellen /
@@ -50,8 +55,32 @@
 -- Futtersilo mit Schweinefutter platzieren (pigFood) /
 - Hofsilo /
 - Schafe /
-
-- Raiffeisen
-- Generelle Kauf.- Verkaufstationen
-- Wasserfüllstationen
 - Güllelager
+
+
+- Verkaufstationen
+	- Getreide AG /
+	- Ballenverkauf /
+	- Lila Backwerk Produktion /
+					Verkauf /
+	- Raiffeisen /
+		- InfoMarker entfernen
+	- Eier Putthoff
+	- Hafen
+	- Nordzucker
+	- Stralsunder Brauerei
+	- Düngerstation auf dem Hof
+	- Wasserfüllstationen (Hydranten)
+	
+- Produktionen
+	- Molkerei umgebaut /
+	- Getreidemühle hinzugefügt /
+	- Sägewerk (Wood, WoodChips)
+	- Alte Spinnerei (Wool)
+	
+	
+
+
+
+
+
