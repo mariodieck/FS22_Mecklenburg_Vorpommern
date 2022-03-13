@@ -23,6 +23,8 @@
 - Bienen beim Kuhhof hinzugefügt /
 - Monitor beim Händler prüfen (streamShader nutzen) /
 
+HIER MAL EIN NEUER EINTRAG
+
 - Feld 4 wachsen die Früchte nur auf dem halben Feld
 - Error: No depth map available, but shape 'smokeEffectBack' (smokeEffectBackShape) with material 'unloadSmoke_mat' uses a custom shader which requires reading depth data.
 - Warning: Shape from 'map.i3d.shapes' too big (11325 KB). Maximum supported size on Consoles is 8192 KB.
