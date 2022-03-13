@@ -23,7 +23,7 @@
 - Bienen beim Kuhhof hinzugefügt /
 - Monitor beim Händler prüfen (streamShader nutzen) /
 
-HIER MAL EIN NEUER EINTRAG
+Hier stand es mal
 
 - Feld 4 wachsen die Früchte nur auf dem halben Feld
 - Error: No depth map available, but shape 'smokeEffectBack' (smokeEffectBackShape) with material 'unloadSmoke_mat' uses a custom shader which requires reading depth data.
