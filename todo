@@ -1,4 +1,4 @@
-//Version: 0.0.0.10 Beta
+//Version: 0.0.0.6 Beta
 
 - descVersion angepasst auf "64" /
 - Shop Plätze drehen /
@@ -45,6 +45,8 @@
 - Steinmauer bei der BGA hat keine Collision /
 - alle Bäume prüfen (evtl. skalieren auf 1 1 1) /
 - Bäume BGA austauschen /
+- Bergehallen textur anpassen /
+- Unterstand auf dem Haupthof ersetzen bzw. anpassen /
 
 - Schilder Textur (verschmutzte Fahrbahn)
 - Plattenweg umbauen am Hof	bzw. ersetzen
@@ -94,10 +96,10 @@
 		- Hallen angepasst /
 		- Sounds angepasst /
 		- VerkaufsTrigger hinzugefügt für Kalk und Dünger /
-	- Stralsunder Brauerei
-		- Gebäude gefixt
-		- Schranken verbaut
-	- Eier Putthoff
+	- Stralsunder Brauerei /
+		- Gebäude gefixt /
+		- Schranken verbaut /
+	- Eier Putthoff /
 	- Düngerstation auf dem Hof
 	- Wasserfüllstationen (Hydranten)
 	
