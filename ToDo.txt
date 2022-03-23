@@ -47,6 +47,7 @@
 - Bäume BGA austauschen /
 - Bergehallen textur anpassen /
 - Unterstand auf dem Haupthof ersetzen bzw. anpassen /
+- Beim Sägewerk die koppel an der Straße hat kein Gras
 
 - Schilder Textur (verschmutzte Fahrbahn)
 - Plattenweg umbauen am Hof	bzw. ersetzen
