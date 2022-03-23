@@ -1,0 +1,116 @@
+//Version: 0.0.0.6 Beta
+
+- descVersion angepasst auf "64" /
+- Shop Plätze drehen /
+- Collision vom alten Heap (Kuhhof) /
+- Straßenlampen austauschen/
+- Bäume austauschen/
+- Lampen Schule testen /
+- Hofsilo (Siloanlage erneuert) /
+- Fahne erneuert /
+- neue Gosse verbaut /
+- Schranke mit funktion verbaut vor der Gosse /
+- Fricke Fahne erneuert /
+- Schranke Hofsilo fixen /
+- Colision Hofsilo fixen /
+- Silo nicht sichtbar / 
+- Hofsilo Spawnpunkt hinzufügen /
+- Lampem am Hofsilo hinzufügen /
+- Probenehmer auf Hofsilo animieren /
+- Waage Hofsilo hinzugefügt /
+- Schranken auf Hofsilo kleiner scalieren /
+- Kuhhof Strohballen aus Basegame am Keilsilo plazieren /
+- Kuhhof Waschplatz anpassen am Boden /
+- Kuhhof Umrandung beim Keilsilo anpassen /
+- Schafweide Spawnpunkt anpassen /
+- Bienen beim Kuhhof hinzugefügt /
+- Monitor beim Händler prüfen (streamShader nutzen) /
+- Kalkplane zu groß in der Übersicht (.grle) /
+- storItems.xml nutzen statt die modDesc.xml /
+- Feld 4 wachsen die Früchte nur auf dem halben Feld /
+- Tankstelle Dorf Lampen prüfen /
+- Container textur ändern /
+- Error: No depth map available, but shape 'smokeEffectBack' (smokeEffectBackShape) with material 'unloadSmoke_mat' uses a custom shader which requires reading depth data.
+	- Ist ein bekannter Fehler seitens GIANTS und ist nicht behebbar.
+- Beim Laden der Map (WARNING)
+	- Warning: Shape from 'map.i3d.shapes' too big (11325 KB). Maximum supported size on Consoles is 8192 KB.
+		- Nichts schlimmes, ist nur eine Warnung
+- Geschlossen text bei den Toren mit Zeitsteuerung in l10N eintragen /
+- Willkommenstext beim Start der Map /
+- Gräben bei Nordzucker (Büsche) /
+- Boden absenken im Meer (höhe Kuhhof) /
+- Wasserplane prüfen /
+- See am Haupthof erstellen /
+- Kirche verbauen /
+- Steinmauer bei der BGA hat keine Collision /
+- alle Bäume prüfen (evtl. skalieren auf 1 1 1) /
+- Bäume BGA austauschen /
+- Bergehallen textur anpassen /
+- Unterstand auf dem Haupthof ersetzen bzw. anpassen /
+
+- Schilder Textur (verschmutzte Fahrbahn)
+- Plattenweg umbauen am Hof	bzw. ersetzen
+- Diverse Texturprobleme beheben zb. bei der BGA die Brücke (Staudamm)
+- Parkende Autos setzen (Splines/trafficSystem/parkedCars)
+- SPLINES anpassen der Autos (nähe Hof, dichter an die Straße)
+- SPLINES anpassen (Fußgänger)
+- Neue map_PDA erstellen
+- *Zug evtl. verbauen Rücksprache mit Team
+
+
+----- Testen / Probieren "nicht relevant" -----
+1. Trigger von den Flugzeugen für die Fahrzeuge (trafficSystem) nutzen und schauen ob diese die Geschwindigkeit ändern zb. Dorf (30 Km/H) /funktioniert so nicht
+2. BlitzerTrigger im Dorf testen ob der vom ls17 funktioniert, evtl. umschreiben /funktioniert so nicht
+
+
+----- Placeables Erledigen -----
+- BGA /
+- BGA Fahrsilos /
+- Kuhhof /
+- Hühner /
+- Tankstellen /
+- Werkstätten /
+- Schweinezucht  /
+-- Futtersilo mit Schweinefutter platzieren (pigFood) /
+- Hofsilo /
+- Schafe /
+- Güllelager
+
+
+- Verkaufstationen
+	- Getreide AG /
+		- Ballenverkauf /
+	- Lila Backwerk Produktion /
+					Verkauf /
+	- Raiffeisen /
+		- InfoMarker entfernen /
+	- Nordzucker /
+		- Waagen implementierne /
+			- eingangswaage /
+			- ausgangswaage /
+		- Schild (Nordzucker) auf dem Dach setzen /
+	- Hafen /
+		- Kräne textur angepasst /
+		- Silos textur angepasst /
+		- Waagen verbaut /
+		- Hallen angepasst /
+		- Sounds angepasst /
+		- VerkaufsTrigger hinzugefügt für Kalk und Dünger /
+	- Stralsunder Brauerei /
+		- Gebäude gefixt /
+		- Schranken verbaut /
+	- Eier Putthoff /
+	- Düngerstation auf dem Hof /
+	- Wasserfüllstationen (Hydranten)
+	
+- Produktionen
+	- Molkerei umgebaut /
+	- Getreidemühle hinzugefügt /
+	- Sägewerk (Wood, WoodChips)
+	- Alte Spinnerei (Wool)
+	
+	
+
+
+
+
