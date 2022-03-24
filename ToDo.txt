@@ -1,4 +1,4 @@
-//Version: 0.0.0.6 Beta
+//Version: 0.0.0.7 Beta
 
 - descVersion angepasst auf "64" /
 - Shop Plätze drehen /
@@ -47,6 +47,9 @@
 - Bäume BGA austauschen /
 - Bergehallen textur anpassen /
 - Unterstand auf dem Haupthof ersetzen bzw. anpassen /
+- Bei der Kirche im Dorf das Gras weiter malen /
+- Sound der Kirche anpassen /
+- Rolltore am Haupthof anpassen (Rundumleuchten mit Funktion verbauen)
 - Beim Sägewerk die koppel an der Straße hat kein Gras
 
 - Schilder Textur (verschmutzte Fahrbahn)
