@@ -49,12 +49,15 @@
 - Unterstand auf dem Haupthof ersetzen bzw. anpassen /
 - Bei der Kirche im Dorf das Gras weiter malen /
 - Sound der Kirche anpassen /
-- Rolltore am Haupthof anpassen (Rundumleuchten mit Funktion verbauen)
-- Beim Sägewerk die koppel an der Straße hat kein Gras
+- Rolltore am Haupthof anpassen (Rundumleuchten mit Funktion verbauen) /
+- Zaun am Haupthof austauschen /
 
-- Schilder Textur (verschmutzte Fahrbahn)
 - Plattenweg umbauen am Hof	bzw. ersetzen
 - Diverse Texturprobleme beheben zb. bei der BGA die Brücke (Staudamm)
+- Beim Sägewerk die koppel an der Straße hat kein Gras
+- Schilder Textur (verschmutzte Fahrbahn)
+
+
 - Parkende Autos setzen (Splines/trafficSystem/parkedCars)
 - SPLINES anpassen der Autos (nähe Hof, dichter an die Straße)
 - SPLINES anpassen (Fußgänger)
@@ -105,7 +108,7 @@
 		- Schranken verbaut /
 	- Eier Putthoff /
 	- Düngerstation auf dem Hof /
-	- Wasserfüllstationen (Hydranten)
+	- Wasserfüllstationen (Hydranten) /
 	
 - Produktionen
 	- Molkerei umgebaut /
