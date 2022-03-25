@@ -113,7 +113,7 @@
 - Produktionen
 	- Molkerei umgebaut /
 	- Getreidemühle hinzugefügt /
-	- Sägewerk (Wood, WoodChips)
+	- Sägewerk (Wood, WoodChips) /
 	- Alte Spinnerei (Wool)
 	
 	
