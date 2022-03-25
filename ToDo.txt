@@ -81,6 +81,7 @@
 -- Futtersilo mit Schweinefutter platzieren (pigFood) /
 - Hofsilo /
 - Schafe /
+- Pferde 
 - Güllelager
 
 
