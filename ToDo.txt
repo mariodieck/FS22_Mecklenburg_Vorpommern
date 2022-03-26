@@ -81,7 +81,8 @@
 -- Futtersilo mit Schweinefutter platzieren (pigFood) /
 - Hofsilo /
 - Schafe /
-- Pferde 
+- Pferde /
+- BGA Waage 
 - Güllelager
 
 
