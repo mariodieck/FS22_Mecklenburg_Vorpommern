@@ -57,10 +57,12 @@
 - Schilder Textur (verschmutzte Fahrbahn) /
 - Diverse Texturprobleme beheben zb. bei der BGA die Brücke (Staudamm) /
 - SPLINES anpassen der Autos (nähe Hof, dichter an die Straße) /
-
-- SPLINES anpassen (Fußgänger)
+- SPLINES anpassen (Fußgänger) /
 
 - Neue map_PDA erstellen
+
+
+
 - *Zug evtl. verbauen Rücksprache mit Team
 
 
