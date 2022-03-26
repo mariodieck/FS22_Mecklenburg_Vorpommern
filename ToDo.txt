@@ -1,4 +1,4 @@
-//Version: 0.0.0.8 Beta
+//Version: 0.0.0.9 Beta
 
 - descVersion angepasst auf "64" /
 - Shop Plätze drehen /
@@ -54,12 +54,12 @@
 - Plattenweg am Hof umbauen / anpassen bzw. ersetzen /
 - Beim Sägewerk die koppel an der Straße hat kein Gras (wurde zur Pferdekoppel) /
 - Parkende Autos setzen (Splines/trafficSystem/parkedCars) /
-
-- Schilder Textur (verschmutzte Fahrbahn)
+- Schilder Textur (verschmutzte Fahrbahn) /
 - Diverse Texturprobleme beheben zb. bei der BGA die Brücke (Staudamm) /
+- SPLINES anpassen der Autos (nähe Hof, dichter an die Straße) /
 
-- SPLINES anpassen der Autos (nähe Hof, dichter an die Straße)
 - SPLINES anpassen (Fußgänger)
+
 - Neue map_PDA erstellen
 - *Zug evtl. verbauen Rücksprache mit Team
 
