@@ -51,14 +51,13 @@
 - Sound der Kirche anpassen /
 - Rolltore am Haupthof anpassen (Rundumleuchten mit Funktion verbauen) /
 - Zaun am Haupthof austauschen /
+- Plattenweg umbauen am Hof	bzw. ersetzen /
+- Beim Sägewerk die koppel an der Straße hat kein Gras (wurde zur Pferdekoppel) /
+- Parkende Autos setzen (Splines/trafficSystem/parkedCars) /
 
-- Plattenweg umbauen am Hof	bzw. ersetzen
-- Diverse Texturprobleme beheben zb. bei der BGA die Brücke (Staudamm)
-- Beim Sägewerk die koppel an der Straße hat kein Gras
 - Schilder Textur (verschmutzte Fahrbahn)
+- Diverse Texturprobleme beheben zb. bei der BGA die Brücke (Staudamm)
 
-
-- Parkende Autos setzen (Splines/trafficSystem/parkedCars)
 - SPLINES anpassen der Autos (nähe Hof, dichter an die Straße)
 - SPLINES anpassen (Fußgänger)
 - Neue map_PDA erstellen
@@ -82,8 +81,8 @@
 - Hofsilo /
 - Schafe /
 - Pferde /
-- BGA Waage 
-- Güllelager
+- BGA Waage /
+- Güllelager /
 
 
 - Verkaufstationen
@@ -116,7 +115,7 @@
 	- Molkerei umgebaut /
 	- Getreidemühle hinzugefügt /
 	- Sägewerk (Wood, WoodChips) /
-	- Alte Spinnerei (Wool)
+	- Alte Spinnerei (Wool) /
 	
 	
 
