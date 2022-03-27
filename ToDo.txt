@@ -58,7 +58,10 @@
 - Diverse Texturprobleme beheben zb. bei der BGA die Brücke (Staudamm) /
 - SPLINES anpassen der Autos (nähe Hof, dichter an die Straße) /
 - SPLINES anpassen (Fußgänger) /
+- Landscaping (Bäume, Pflanzen) / 
+- placeables.xml anpassen Pfad zur map ändern $mapdir$/.... /
 
+- BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen
 - Neue map_PDA erstellen
 
 
