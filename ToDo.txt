@@ -1,4 +1,4 @@
-//Version: 0.0.0.9 Beta
+//Version: 1.0.0.0 Beta
 
 - descVersion angepasst auf "64" /
 - Shop Plätze drehen /
