@@ -60,6 +60,10 @@
 - SPLINES anpassen (Fußgänger) /
 - Landscaping (Bäume, Pflanzen) / 
 - placeables.xml anpassen Pfad zur map ändern $mapdir$/.... /
+- Schild am weg beim Haupthof umsetzen /
+- Shopplätze gedreht und angepasst /
+- Shop Sachen Textur anpassen
+- TipColision Bergehalle Haupthof anpassen
 
 - BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen
 - Neue map_PDA erstellen
