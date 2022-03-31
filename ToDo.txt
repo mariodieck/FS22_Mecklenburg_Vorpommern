@@ -67,6 +67,7 @@
 
 - BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen
 - Neue map_PDA erstellen
+- ggf. alte decal layer entfernen.
 
 
 
