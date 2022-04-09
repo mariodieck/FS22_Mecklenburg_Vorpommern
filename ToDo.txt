@@ -65,10 +65,14 @@
 - Shop Sachen Textur anpassen /
 - TipColision Bergehalle Haupthof anpassen / 
 	Wichtig: Scripts -> Maps -> Create Ground Collision Map nachdem platzieren der Colisionen (Bitmask:19)
+- ggf. alte decal layer entfernen /
+- Bäume nochmal Scaliert /
+- Texte übersetzt (Polnisch, Französisch) /
 
+- Pflanzen unter dem Weg richtung BGA
 - BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen
 - Neue map_PDA erstellen
-- ggf. alte decal layer entfernen.
+
 
 
 
@@ -127,6 +131,7 @@
 	- Getreidemühle hinzugefügt /
 	- Sägewerk (Wood, WoodChips) /
 	- Alte Spinnerei (Wool) /
+	- Saatgutproduktion verbaut /
 	
 	
 
