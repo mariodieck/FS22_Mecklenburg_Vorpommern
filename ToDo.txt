@@ -69,18 +69,10 @@
 - Bäume nochmal Scaliert /
 - Texte übersetzt (Polnisch, Französisch) /
 - Pflanzen unter dem Weg richtung BGA /
+
 - BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen
 - Neue map_PDA erstellen
-
-
-
-
 - *Zug evtl. verbauen Rücksprache mit Team
-
-
------ Testen / Probieren "nicht relevant" -----
-1. Trigger von den Flugzeugen für die Fahrzeuge (trafficSystem) nutzen und schauen ob diese die Geschwindigkeit ändern zb. Dorf (30 Km/H) /funktioniert so nicht
-2. BlitzerTrigger im Dorf testen ob der vom ls17 funktioniert, evtl. umschreiben /funktioniert so nicht
 
 
 ----- Placeables Erledigen -----
