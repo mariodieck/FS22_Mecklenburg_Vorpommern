@@ -68,8 +68,7 @@
 - ggf. alte decal layer entfernen /
 - Bäume nochmal Scaliert /
 - Texte übersetzt (Polnisch, Französisch) /
-
-- Pflanzen unter dem Weg richtung BGA
+- Pflanzen unter dem Weg richtung BGA /
 - BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen
 - Neue map_PDA erstellen
 
@@ -92,7 +91,7 @@
 - Tankstellen /
 - Werkstätten /
 - Schweinezucht  /
--- Futtersilo mit Schweinefutter platzieren (pigFood) /
+- Futtersilo mit Schweinefutter platzieren (pigFood) /
 - Hofsilo /
 - Schafe /
 - Pferde /
