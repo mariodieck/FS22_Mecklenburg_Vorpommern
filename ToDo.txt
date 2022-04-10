@@ -1,4 +1,4 @@
-//Version: 1.0.0.0 Beta
+//Version: 1.0.0.0
 
 ####### Multiplayer Test #######
 - Keine Fahrzeuge Vehicle.xml (farmID)
@@ -23,6 +23,7 @@
 - Baum beim See Haupthof sowie Boden anpassen / 
 - Boden beim Trafohaus Schweinestall anpassen /
 - Licht Halle Getreide AG funktioniert nicht /
+- Ordnerstruktur angepasst von "maps/map zu "map /
 
 
 
