@@ -4,6 +4,9 @@
 - Getreide AG Straßenpfosten Einfahrt
 - Lampe Getreide AG im Gebäude
 - Getreide AG einfahrt anpassen (Schilder)
+- Coronas beim Flugzeug anpassen
+- Sounds Gebläse und Windkraftanlagen etwas lauter machen
+- Schafe nähe Feuerwehr Umgebungssound (Vögel) zu laut
 
 
 - descVersion angepasst auf "64" /
@@ -103,9 +106,9 @@
 - Bodenwinkel erhöt auf 32 /
 - Feld 22 Insel mit Trumpf anpassen /
 - Dorf beim Flugplatz, Boden anpassen /
-- Coronas beim Flugzeug anpassen
 - Sounds der Windkraftanlagen angepasst /
 - Sounds der Gebläse angepasst /
+
 
 - BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen
 - Neue map_PDA erstellen
