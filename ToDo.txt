@@ -1,31 +1,9 @@
 //Version: 1.0.0.0
 
-####### Multiplayer Test #######
-- Keine Fahrzeuge Vehicle.xml (farmID)
-- Feld 18 corner anpassen (Wohnhaus) /
-- Bäume am Dorf zum Viehhändler in der Luft /
-- Straßenpfosten zum Viehhändler in der Luft (rechts) (alte ausm 19er nehmen) /
-- Viehhändler Zaun anpassen _ersetzen /
-- Feld 5 Frucht anpassen /
-- Kaimauer Hafen Ecke /
-- Textur Haus im Dorf beim Leuchturm am Wasser /
-- Wasserplane am Dorf (Graben) anpassen und Baum /
-- Wachholderstrauch Leuchtturm /
-- Straße bei der Schafweide in der Luft /
-- Lampen bei der Molkerei in der Luft /
-- Getreide AG Saatgt sowie Dünger und Kalk kaufen /
-- BGA Waage Anzeige /
-- BGA Stromverteiler am FahrSilo (Textur) /
-- BGA Zaun prüfen /
-- Feld 16 prüfen neben dem Händler /
-- HofSilo Borde /
-- HofSilo Wassertank an der Halle in der Luft /
-- Baum beim See Haupthof sowie Boden anpassen / 
-- Boden beim Trafohaus Schweinestall anpassen /
-- Licht Halle Getreide AG funktioniert nicht /
-- Ordnerstruktur angepasst von "maps/map zu "map /
-
-
+- Gras in der Feuerwehr (Dorf)
+- Getreide AG Straßenpfosten Einfahrt
+- Lampe Getreide AG im Gebäude
+- Getreide AG einfahrt anpassen (Schilder)
 
 
 - descVersion angepasst auf "64" /
@@ -97,6 +75,37 @@
 - Bäume nochmal Scaliert /
 - Texte übersetzt (Polnisch, Französisch) /
 - Pflanzen unter dem Weg richtung BGA /
+
+####### Multiplayer Test #######
+- Keine Fahrzeuge Vehicle.xml (farmID)
+- Feld 18 corner anpassen (Wohnhaus) /
+- Bäume am Dorf zum Viehhändler in der Luft /
+- Straßenpfosten zum Viehhändler in der Luft (rechts) (alte ausm 19er nehmen) /
+- Viehhändler Zaun anpassen _ersetzen /
+- Feld 5 Frucht anpassen /
+- Kaimauer Hafen Ecke /
+- Textur Haus im Dorf beim Leuchturm am Wasser /
+- Wasserplane am Dorf (Graben) anpassen und Baum /
+- Wachholderstrauch Leuchtturm /
+- Straße bei der Schafweide in der Luft /
+- Lampen bei der Molkerei in der Luft /
+- Getreide AG Saatgt sowie Dünger und Kalk kaufen /
+- BGA Waage Anzeige /
+- BGA Stromverteiler am FahrSilo (Textur) /
+- BGA Zaun prüfen /
+- Feld 16 prüfen neben dem Händler /
+- HofSilo Borde /
+- HofSilo Wassertank an der Halle in der Luft /
+- Baum beim See Haupthof sowie Boden anpassen / 
+- Boden beim Trafohaus Schweinestall anpassen /
+- Licht Halle Getreide AG funktioniert nicht /
+- Ordnerstruktur angepasst von "maps/map zu "map /
+- Bodenwinkel erhöt auf 32 /
+- Feld 22 Insel mit Trumpf anpassen /
+- Dorf beim Flugplatz, Boden anpassen /
+- Coronas beim Flugzeug anpassen
+- Sounds der Windkraftanlagen angepasst /
+- Sounds der Gebläse angepasst /
 
 - BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen
 - Neue map_PDA erstellen
