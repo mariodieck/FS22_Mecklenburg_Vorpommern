@@ -1,13 +1,12 @@
 //Version: 1.0.0.0
 
-- Gras in der Feuerwehr (Dorf)
-- Getreide AG Straßenpfosten Einfahrt
-- Lampe Getreide AG im Gebäude
-- Getreide AG einfahrt anpassen (Schilder)
-- Coronas beim Flugzeug anpassen
-- Sounds Gebläse und Windkraftanlagen etwas lauter machen
-- Schafe nähe Feuerwehr Umgebungssound (Vögel) zu laut
-
+- Gras in der Feuerwehr (Dorf) /
+- Getreide AG Straßenpfosten Einfahrt /
+- Lampe Getreide AG im Gebäude /
+- Getreide AG einfahrt anpassen (Schilder) /
+- Coronas beim Flugzeug anpassen /
+- Sounds Gebläse und Windkraftanlagen etwas lauter machen (0.5) TESTEN InGame /
+- Schafe nähe Feuerwehr Umgebungssound (Vögel) zu laut (0.5) TESTEN InGame /
 
 - descVersion angepasst auf "64" /
 - Shop Plätze drehen /
@@ -110,7 +109,7 @@
 - Sounds der Gebläse angepasst /
 
 
-- BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen
+- BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen (lag an Kinematic und musste auf Static gestellt werden) /
 - Neue map_PDA erstellen
 - *Zug evtl. verbauen Rücksprache mit Team
 
