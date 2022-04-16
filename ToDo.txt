@@ -1,3 +1,9 @@
+//Version: 1.0.0.0 Beta (Online 16.04.2022)
+- Verkaufstrigger bei Fricke hinzufügen
+- 
+
+
+
 //Version: 1.0.0.0
 
 - Gras in der Feuerwehr (Dorf) /
