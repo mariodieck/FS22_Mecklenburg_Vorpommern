@@ -1,12 +1,17 @@
+//Version: 1.0.0.0 (HotFix)
+Fahrzeuge können nun verkauft werden beim Händler sowie in den Werkstätten (Hof und Dorf)
+KI Traktor Parkend deaktiviert
+Anzahl der Kühe erhöht auf 500, Kapazitäten für Gülle, Milch, Wasser, Stroh dementsprechend angepasst
+Ballentrigger im Kuhstall verbaut, nun ist es möglich mit Rundballen sowie Quaderballen einzustreuen. Funktional im Linken Stall sowie den mittleren.
+Schwebendes Haus nähe Kirche behoben
+Weide Tor auf dem Kuh Hof angepasst
+Gitter an der Bergehalle auf Haupt Hof ragte in dem Tor wenn geöffnet
+Bodentextur bei der BGA angepasst
+Gülleplane vom Becken der BGA nun auch funktional
+
+
+
 //Version: 1.0.0.0 Beta (Online 16.04.2022)
-- Verkaufstrigger bei Fricke hinzufügen
-- KI Tractor Parkend deaktivieren
-- Ballentrigger im Kuhstall testen
-- 
-
-
-
-//Version: 1.0.0.0
 
 - Gras in der Feuerwehr (Dorf) /
 - Getreide AG Straßenpfosten Einfahrt /
