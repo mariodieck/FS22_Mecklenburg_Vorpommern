@@ -1,4 +1,4 @@
-//Version: 1.0.0.0 (HotFix)
+//Version: 1.0.0.1 (HotFix)
 Fahrzeuge können nun verkauft werden beim Händler sowie in den Werkstätten (Hof und Dorf)
 KI Traktor Parkend deaktiviert
 Anzahl der Kühe erhöht auf 500, Kapazitäten für Gülle, Milch, Wasser, Stroh dementsprechend angepasst
