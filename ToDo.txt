@@ -8,6 +8,7 @@ Weide Tor auf dem Kuh Hof angepasst
 Gitter an der Bergehalle auf Haupt Hof ragte in dem Tor wenn geöffnet
 Bodentextur bei der BGA angepasst
 Gülleplane vom Becken der BGA nun auch funktional
+Lampen in diversen Hallen gefixt (leuchteten auch am Tage)
 
 
 
