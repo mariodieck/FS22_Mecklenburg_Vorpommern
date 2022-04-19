@@ -1,3 +1,7 @@
+//Version: 1.0.0.0
+Mistplatte Scheinemast prüfen
+
+
 //Version: 1.0.0.1 (HotFix)
 Fahrzeuge können nun verkauft werden beim Händler sowie in den Werkstätten (Hof und Dorf)
 KI Traktor Parkend deaktiviert
@@ -9,6 +13,8 @@ Gitter an der Bergehalle auf Haupt Hof ragte in dem Tor wenn geöffnet
 Bodentextur bei der BGA angepasst
 Gülleplane vom Becken der BGA nun auch funktional
 Lampen in diversen Hallen gefixt (leuchteten auch am Tage)
+Schneemask erneuert (schnee lag zum teil in vielen Hallen / Unterständen)
+Colision in einer Bergehalle auf dem Haupthof entfernt
 
 
 
