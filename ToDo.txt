@@ -126,7 +126,7 @@ Lampen in diversen Hallen gefixt (leuchteten auch am Tage)
 - BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen (lag an Kinematic und musste auf Static gestellt werden) /
 - Neue map_PDA erstellen
 - *Zug evtl. verbauen Rücksprache mit Team
-
+- Mist spawn nicht auf der Mistplatte am Schweinehof
 
 ----- Placeables Erledigen -----
 - BGA /
