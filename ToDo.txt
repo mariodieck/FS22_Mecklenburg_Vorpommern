@@ -1,5 +1,8 @@
 //Version: 1.0.0.0
-Mistplatte Scheinemast prüfen
+- Mist spawn nicht auf der Mistplatte am Schweinehof
+- Neue map_PDA erstellen
+- *Zug evtl. verbauen Rücksprache mit Team
+
 
 
 //Version: 1.0.0.1 (HotFix)
@@ -127,12 +130,8 @@ Colision in einer Bergehalle auf dem Haupthof entfernt
 - Dorf beim Flugplatz, Boden anpassen /
 - Sounds der Windkraftanlagen angepasst /
 - Sounds der Gebläse angepasst /
-
-
 - BlitzerTrigger Colision Mask ändern (original: 600000) Blitzt zwar, Fahrzeuge bleiben jedoch davor stehen (lag an Kinematic und musste auf Static gestellt werden) /
-- Neue map_PDA erstellen
-- *Zug evtl. verbauen Rücksprache mit Team
-- Mist spawn nicht auf der Mistplatte am Schweinehof
+
 
 ----- Placeables Erledigen -----
 - BGA /
