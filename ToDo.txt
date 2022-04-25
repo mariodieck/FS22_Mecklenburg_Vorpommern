@@ -1,5 +1,11 @@
 //Version: 1.0.0.0
-- Mist spawn nicht auf der Mistplatte am Schweinehof
+Mist spawn nun auf der Mistplatte am Schweinehof
+Farmlands angepasst Wiese neben Feld 19 zb.
+Zuckerfabrik umgebaut, nun kann auch Zucker produziert werden. Rübenhaufen sind nun animiert. Nebenprodukt hinzufügt: Carbokalk
+Stralsunder Brauerei konnten keine Paletten spawnen
+
+
+- ggf. Felder hinzugefügen
 - Neue map_PDA erstellen
 - *Zug evtl. verbauen Rücksprache mit Team
 
