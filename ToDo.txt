@@ -3,13 +3,14 @@ Mist spawn nun auf der Mistplatte am Schweinehof
 Farmlands angepasst Wiese neben Feld 19 zb.
 Zuckerfabrik umgebaut, nun kann auch Zucker produziert werden. Rübenhaufen sind nun animiert. Nebenprodukt hinzufügt: Carbokalk
 Stralsunder Brauerei konnten keine Paletten spawnen
-
+- Blitzerscript macht error auf dem Dedi Server
+- Geld beim Blitzen wird nicht abgezogen auf dem Dedi server
+- Icons setzen bei Raiffeisen für Dünger etc.
 
 - ggf. Felder hinzugefügen
 - Neue map_PDA erstellen
 - *Zug evtl. verbauen Rücksprache mit Team
-- Blitzerscript macht error auf dem Dedi Server
-- Geld beim Blitzen wird nicht abgezogen auf dem Dedi server
+
 
 //Version: 1.0.0.1 (HotFix)
 Fahrzeuge können nun verkauft werden beim Händler sowie in den Werkstätten (Hof und Dorf)
