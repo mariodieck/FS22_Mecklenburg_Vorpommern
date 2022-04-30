@@ -1,18 +1,21 @@
-//Version: 1.0.0.0
+//Version: 1.0.0.1
 Mist spawn nun auf der Mistplatte am Schweinehof
 Farmlands angepasst Wiese neben Feld 19 zb.
 Zuckerfabrik umgebaut, nun kann auch Zucker produziert werden. Rübenhaufen sind nun animiert. Nebenprodukt hinzufügt: Carbokalk
 Stralsunder Brauerei konnten keine Paletten spawnen
-- Blitzerscript macht error auf dem Dedi Server
-- Geld beim Blitzen wird nicht abgezogen auf dem Dedi server
-- Icons setzen bei Raiffeisen für Dünger etc.
+Blitzerscript macht error auf dem Dedi Server sowie beim Blitzen wurde kein Geld abgezogen.
+Icon auf der PDA Map für Raiffeisen wurde gesetzt
+Shopplätze etwas geändert beim Händler
+Bei der "Getreide AG" konnten keine Baumwollballen angenommen werden
+descVersion auf "65" erhöt
+
 
 - ggf. Felder hinzugefügen
 - Neue map_PDA erstellen
 - *Zug evtl. verbauen Rücksprache mit Team
 
 
-//Version: 1.0.0.1 (HotFix)
+//Version: 1.0.0.0 (HotFix)
 Fahrzeuge können nun verkauft werden beim Händler sowie in den Werkstätten (Hof und Dorf)
 KI Traktor Parkend deaktiviert
 Anzahl der Kühe erhöht auf 500, Kapazitäten für Gülle, Milch, Wasser, Stroh dementsprechend angepasst
