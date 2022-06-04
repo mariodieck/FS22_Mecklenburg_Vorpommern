@@ -1,3 +1,10 @@
+//Version: 1.0.0.2
+descVersion auf "66" erhöht
+Kennzeichen anpassen für NWM (Nordwestmecklenburg) zb.
+zusätzliche Früchte verbaut (Roggen, Luzerne, Klee, Mohn, Hopfen, Rotkohl, Weißkohl, Lavendel, Zwiebeln, Karotten)
+
+
+
 //Version: 1.0.0.1
 Mist spawn nun auf der Mistplatte am Schweinehof
 Farmlands angepasst Wiese neben Feld 19 zb.
@@ -7,7 +14,7 @@ Blitzerscript macht error auf dem Dedi Server sowie beim Blitzen wurde kein Geld
 Icon auf der PDA Map für Raiffeisen wurde gesetzt
 Shopplätze etwas geändert beim Händler
 Bei der "Getreide AG" konnten keine Baumwollballen angenommen werden
-descVersion auf "65" erhöt
+descVersion auf "65" erhöht
 
 
 - ggf. Felder hinzugefügen

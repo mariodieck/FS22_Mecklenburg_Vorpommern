@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<motionPathEffects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../shared/xml/schema/mapMotionPathEffects.xsd">
+    <motionPathEffect effectClass="WindrowerMotionPathEffect" effectType="WINDROWER" filename="$data/effects/windrower/windrower.i3d">
+        <effectGeneration rootNode="0|0"/>
+        <typeDefinition fillTypes="GRASS_WINDROW DRYGRASS_WINDROW STRAW ALFALFA_WINDROW DRYALFALFA_WINDROW CLOVER_WINDROW DRYCLOVER_WINDROW" speedScale="1.2"/>
+
+        <effectMeshes>
+            <effectMesh node="0|0|0" numRows="3"  rowLength="53" skipPositions="0" boundingBox="7 3 7" numVariations="4"/>
+            <effectMesh node="0|0|1" numRows="3"  rowLength="30" skipPositions="0" boundingBox="7 3 7" numVariations="4"/>
+            <effectMesh node="0|0|2" numRows="11" rowLength="32" skipPositions="0" boundingBox="7 3 7" numVariations="2"/>
+            <effectMesh node="0|0|3" numRows="13" rowLength="32" skipPositions="0" boundingBox="7 3 7" numVariations="2"/>
+        </effectMeshes>
+
+        <effectMaterials rootNode="0|1">
+            <effectMaterial node="0|1|0" fillTypes="GRASS_WINDROW" />
+            <effectMaterial node="0|1|1" fillTypes="DRYGRASS_WINDROW" />
+            <effectMaterial node="0|1|2" fillTypes="STRAW" />
+            <effectMaterial node="0|1|3" fillTypes="ALFALFA_WINDROW" />
+            <effectMaterial node="0|1|4" fillTypes="DRYALFALFA_WINDROW" />
+            <effectMaterial node="0|1|5" fillTypes="CLOVER_WINDROW" />
+            <effectMaterial node="0|1|6" fillTypes="DRYCLOVER_WINDROW" />
+        </effectMaterials>
+
+        <customShaderDefaults>
+            <customShaderVariation name="subUV_scaleByLife_alphaMap"/>
+            <customShaderParameter name="sizeScale" value="1.0 3.0 0.0 0.0"/>
+            <customShaderParameter name="subUVelements" value="8.0 4.0 1.0 1.0"/>
+        </customShaderDefaults>
+    </motionPathEffect>
+</motionPathEffects>

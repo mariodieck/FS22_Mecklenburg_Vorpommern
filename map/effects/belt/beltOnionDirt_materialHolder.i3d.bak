@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<i3D name="beltMeshes_materialHolder" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+  <Asset>
+    <Export program="GIANTS Editor 64bit" version="9.0.2"/>
+  </Asset>
+
+  <Files>
+    <File fileId="1" filename="redCabbage/redCabbage_diffuse.dds"/>
+    <File fileId="4" filename="$data/shaders/grainUnloadingBeltShader.xml"/>
+    <File fileId="2" filename="$data/shared/default_normal.dds"/>
+    <File fileId="3" filename="$data/shared/default_specular.dds"/>
+  </Files>
+
+
+  <Materials>
+    <Material name="redCabbageClean_mat" materialId="6" customShaderId="4">
+      <Texture fileId="1"/>
+      <Normalmap fileId="2"/>
+      <Glossmap fileId="3"/>
+      <CustomParameter name="morphPosition" value="0 1 1 0"/>
+      <CustomParameter name="prevMorphPosition" value="0 1 1 0"/>
+      <CustomParameter name="offsetUV" value="0 0 0 0"/>
+    </Material>
+  </Materials>
+
+
+  <Shapes externalShapesFile="beltOnionDirt_materialHolder.i3d.shapes">
+  </Shapes>
+
+
+  <Dynamics>
+  </Dynamics>
+
+  <Scene>
+      <Shape shapeId="1" name="beltOnionDirt_materialHolder" translation="2 0 2.75132" clipDistance="300" nodeId="16" materialIds="6" castsShadows="true" receiveShadows="true"/>
+  </Scene>
+
+  <UserAttributes>
+    <UserAttribute nodeId="16">
+      <Attribute name="fillType" type="string" value="redCabbage"/>
+      <Attribute name="materialType" type="string" value="belt_cropDirt"/>
+      <Attribute name="onCreate" type="scriptCallback" value="MaterialUtil.onCreateMaterial"/>
+    </UserAttribute>
+  </UserAttributes>
+
+</i3D>
