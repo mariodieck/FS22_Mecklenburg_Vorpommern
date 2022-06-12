@@ -1,9 +1,60 @@
+//Version: 1.0.0.2 (HotFix)
+Verkausstationen sowie Lagermöglichkeiten für zusätzliche Früchte verbaut
+Raiffeisen
+Kaufen
+	Erdfrüchte
+		Karotten
+		Zwiebeln
+		Weißkohl
+		Rotkohl
+		Mohn
+	Silofrüchte
+		Roggen
+Verkaufen
+		Roggen
+		
+Getreide AG
+	Roggen
+	
+Getreide AG Ballenverkauf
+	Klee
+	Luzerne
+		
+Lila Backwerk
+	Roggen
+	poppy
+
+Stralsunder
+	hops
+	
+Pferde
+	Klee
+	Luzerne
+	
+Kühe
+	Klee
+	Luzerne
+
+Hühner
+	Klee
+	Luzerne
+	
+
 //Version: 1.0.0.2
 descVersion auf "66" erhöht
 Kennzeichen anpassen für NWM (Nordwestmecklenburg) zb.
 zusätzliche Früchte verbaut (Roggen, Luzerne, Klee, Mohn, Hopfen, Rotkohl, Weißkohl, Lavendel, Zwiebeln, Karotten)
 
-
+Roggen 	 / rye
+Luzerne  / alfalfa
+Klee 	 / clover
+Mohn 	 / poppy
+Hopfen 	 / hops
+Rotkohl  / redCabbage
+Weißkohl / cabbage
+Lavendel / lavender
+Zwiebeln / onion
+Karotten / carrot
 
 //Version: 1.0.0.1
 Mist spawn nun auf der Mistplatte am Schweinehof
