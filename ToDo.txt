@@ -1,9 +1,5 @@
 //Version: 1.0.0.4
 
-!Bergehalle Kuhof höher ziehen /
-!Bergehalle austauschen am Hofsilo /
-!Colision des Unterstandes erneuern beim Hofsilo /
-!Bergehalle an der BGA Leuchtröhren prüfen /
 
 descVersion erhöt (angepasst auf Gameversion 1.9.0.0)
 Roggen konnte man nach dem man ihn auf dem Boden gekippt hat, nicht mehr aufnehmen
@@ -23,6 +19,10 @@ Neues Farmhaus verbaut
 einige Bäume ausgetauscht
 Sound des KI Tractors angepasst
 Traffic-Splines angepasst
+Bergehalle Kuhof höher ziehen
+Bergehalle austauschen am Hofsilo
+Colision des Unterstandes erneuern beim Hofsilo
+Bergehalle an der BGA Leuchtröhren prüfen
 
 
 //Version: 1.0.0.3
