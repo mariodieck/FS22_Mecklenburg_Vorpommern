@@ -1,5 +1,46 @@
+//Version: 1.0.0.4
+
+!Bergehalle Kuhof höher ziehen /
+!Bergehalle austauschen am Hofsilo /
+!Colision des Unterstandes erneuern beim Hofsilo /
+!Bergehalle an der BGA Leuchtröhren prüfen /
+
+descVersion erhöt (angepasst auf Gameversion 1.9.0.0)
+Roggen konnte man nach dem man ihn auf dem Boden gekippt hat, nicht mehr aufnehmen
+Schranke beim Sägewerk nun mit Funktion
+Lichtschein in diversen Hallen ausgetauscht
+neue Lampen auf dem Technikhof verbaut
+Bergehallen auf der gesamten Map ausgetauscht und angepasst
+Schnee hinzugefügt auf sämtlichen Gebäuden
+am Kuhof die kleine Wiese etwas eingeebnet
+Feld 3, 14, 15 etwas eingeebnet
+Feld 6 löcher bei Feldeinfahrt geglättet
+Ballenverkauf angepasst (Gras, Hey, etc.)
+Texturpfade für sämtliche Ballen der neuen Früchte angepasst
+Texturen für die Ballen der neuen Früchte angepasst / erneuert
+sämtliche Früchte zur Verkaufsstation "Getreide AG" hinzugefügt
+Neues Farmhaus verbaut
+einige Bäume ausgetauscht
+Sound des KI Tractors angepasst
+Traffic-Splines angepasst
+
+
+//Version: 1.0.0.3
+Früchtesystem komplett überarbeitet
+Der Anbaukalender für die neuen Früchte wurde nicht angezeigt.
+man konnte keine zusätzlichen Früchte mit den Sämaschinen säen.
+Klee und Luzerne konnte man nicht mähen.
+Neu gesätes Gras wurde auf der Karte nicht angezeigt.
+Zwiebeln würden im Wald bei der BGA angezeigt.
+Die Getreidemühle nimmt nur eine begrenzte Menge Sorgum ab. /
+Silos beim kuhhof sowie bei der BGA konnten nicht komplett geleert werden. Collision erneuert sowie BitMask der Collision geändert.
+Bodenplatte der BGA geändert
+BGA Einfülltrichter FillVolume geändert sowie Messeranimation hinzugefügt.
+Weg zur BGA angepasst
+
+
 //Version: 1.0.0.2 (HotFix)
-Verkausstationen sowie Lagermöglichkeiten für zusätzliche Früchte verbaut
+Verkaufsstationen sowie Lagermöglichkeiten für zusätzliche Früchte angepasst
 Raiffeisen
 Kaufen
 	Erdfrüchte
@@ -10,11 +51,10 @@ Kaufen
 		Mohn
 	Silofrüchte
 		Roggen
-Verkaufen
-		Roggen
 		
 Getreide AG
-	Roggen
+Verkaufen
+		Roggen
 	
 Getreide AG Ballenverkauf
 	Klee
@@ -22,10 +62,10 @@ Getreide AG Ballenverkauf
 		
 Lila Backwerk
 	Roggen
-	poppy
+	Mohn
 
 Stralsunder
-	hops
+	Hopfen
 	
 Pferde
 	Klee
