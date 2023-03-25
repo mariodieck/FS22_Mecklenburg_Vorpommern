@@ -1,7 +1,16 @@
 //Version: 1.0.0.4
 
-
 descVersion erhöt (angepasst auf Gameversion 1.9.0.0)
+
+Klee (Clover) konnte mit dem PickUp zwar aufgenommen werden aber aus dem Rohr (Häcksler) kam kein Partikelsystem
+		(Fehler war in der fruitTypes.xml <fruitTypeConverters> stand COLVER_WINDROW statt CLOVER_WINDROW)
+Pflanzendichte bei Lavendel und Luzerne runtergesetzt (FPS drops)
+Weißkohl war nicht mehr sichtbar in der letzten Erntestufe
+Huds der zusätzlichen Früchte ausgetauscht
+deko Büsche können nun gemäht werden
+weiter bodenlayer hinzugefügt so das man inGame mehrere auswahl hat zum Malen
+pickupEffects.xml angepasst beim aufnehmen von Grasschwad mit dem PickUp kam es zu Fehlern
+
 Roggen konnte man nach dem man ihn auf dem Boden gekippt hat, nicht mehr aufnehmen
 Schranke beim Sägewerk nun mit Funktion
 Lichtschein in diversen Hallen ausgetauscht
