@@ -1,6 +1,6 @@
 //Version: 1.0.0.4
 
-descVersion erhöt (angepasst auf Gameversion 1.9.0.0)
+ descVersion erhöt (angepasst auf Gameversion 1.9.0.0)
 
 Klee (Clover) konnte mit dem PickUp zwar aufgenommen werden aber aus dem Rohr (Häcksler) kam kein Partikelsystem
 		(Fehler war in der fruitTypes.xml <fruitTypeConverters> stand COLVER_WINDROW statt CLOVER_WINDROW)
