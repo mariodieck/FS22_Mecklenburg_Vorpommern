@@ -1,7 +1,10 @@
 //Version: 1.0.0.4
 
 descVersion erhöt (angepasst auf Gameversion 1.9.0.0)
-
+einige Verkehrsschilder schrifftlich angepasst 
+viele Verkehrsschilder hatten keine Colision
+Straße am Dorf angepasst da es diverse Lücken gab
+SpeedDisplay im Dorf funktional gemacht (zeigt an wie schnell man fährt
 Klee (Clover) konnte mit dem PickUp zwar aufgenommen werden aber aus dem Rohr (Häcksler) kam kein Partikelsystem
 		(Fehler war in der fruitTypes.xml <fruitTypeConverters> stand COLVER_WINDROW statt CLOVER_WINDROW)
 Pflanzendichte bei Lavendel und Luzerne runtergesetzt (FPS drops)
@@ -10,7 +13,6 @@ Huds der zusätzlichen Früchte ausgetauscht
 deko Büsche können nun gemäht werden
 weiter bodenlayer hinzugefügt so das man inGame mehrere auswahl hat zum Malen
 pickupEffects.xml angepasst beim aufnehmen von Grasschwad mit dem PickUp kam es zu Fehlern
-
 Roggen konnte man nach dem man ihn auf dem Boden gekippt hat, nicht mehr aufnehmen
 Schranke beim Sägewerk nun mit Funktion
 Lichtschein in diversen Hallen ausgetauscht
@@ -31,7 +33,19 @@ Traffic-Splines angepasst
 Bergehalle Kuhof höher ziehen
 Bergehalle austauschen am Hofsilo
 Colision des Unterstandes erneuern beim Hofsilo
-Bergehalle an der BGA Leuchtröhren prüfen
+neue Felder definiert
+	  Felder
+		24
+		25
+		26
+		27
+		28
+		29
+		30
+		31
+		32
+		33
+/Ampeln verbauen
 
 
 //Version: 1.0.0.3
