@@ -1,6 +1,7 @@
 //Version: 1.0.0.4
 
 descVersion erhöt (angepasst auf Gameversion 1.9.0.0)
+Ampeln verbaut
 einige Verkehrsschilder schrifftlich angepasst 
 viele Verkehrsschilder hatten keine Colision
 Straße am Dorf angepasst da es diverse Lücken gab
@@ -45,7 +46,6 @@ neue Felder definiert
 		31
 		32
 		33
-/Ampeln verbauen
 
 
 //Version: 1.0.0.3
