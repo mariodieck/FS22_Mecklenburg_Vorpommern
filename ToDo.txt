@@ -1,5 +1,11 @@
-//Version: 1.0.0.4
+//Version 1.0.0.6
+diverse Schranken werden nun Automatisch durch AutoDrive geöffnet wie zb. diese auf dem Hofsilo
 
+//Version 1.0.0.5
+Die Ampeln auf der Map wurde etwas erhöht, so das auch größere Maschinen ordentlich drunter fahren können
+
+
+//Version: 1.0.0.4
 descVersion erhöt (angepasst auf Gameversion 1.9.1.0)
 terrainShader.xml angepasst welches Probleme machte nach dem Patch: 1.9.1.0
 Ampeln verbaut
