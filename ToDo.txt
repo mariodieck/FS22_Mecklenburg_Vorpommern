@@ -1,3 +1,9 @@
+//Version 1.0.0.7
+Grünroggen verbaut
+Weißkohl wieder entfernt
+Rotkohl wieder entfernt
+
+
 //Version 1.0.0.6
 diverse Schranken werden nun Automatisch durch AutoDrive geöffnet wie zb. diese auf dem Hofsilo
 
