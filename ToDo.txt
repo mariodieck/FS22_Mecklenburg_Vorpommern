@@ -5,6 +5,7 @@ Rotkohl wieder entfernt
 Ampeln nochmal verändert
 Mohn konnte nicht mit der Schaufel aufgenommen werden
 Hopfen konnte nicht mit der Schaufel aufgenommen werden
+Helfernamen angepasst (Reale Namen)
 
 //Version 1.0.0.6
 diverse Schranken werden nun Automatisch durch AutoDrive geöffnet wie zb. diese auf dem Hofsilo
