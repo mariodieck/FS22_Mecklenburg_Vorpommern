@@ -1,3 +1,13 @@
+//Version 1.0.0.8
+descVersion erhöt auf 75 (angepasst auf Gameversion 1.10.1.0)
+einige Ampelschaltungen waren nicht korregt 
+Problem behoben das der AD nicht an bestimmten Ampeln weiter gefahren ist
+Baum in der Halle auf dem Haupthof entfernt
+Helfernamen angepasst
+diverse Bäume hingen in der Luft
+diverse Schilder etwas weiter weg gestellt von der Straße
+
+
 //Version 1.0.0.7
 Grünroggen verbaut
 Weißkohl wieder entfernt
