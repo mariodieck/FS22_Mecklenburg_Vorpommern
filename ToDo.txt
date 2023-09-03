@@ -1,7 +1,22 @@
 //Version 1.0.0.9
 am Güllelager wurde der Zaun etwas angepasst und die Leitpfosten welcher in der Einfahrt stand, entfernt
-
-
+Tannen am Weg (Kuhhof) erneuert
+neue Pflanzentexturen verbaut
+	barley
+	canola
+	grass
+	groundFoliage
+	maize
+	meadow
+	oat
+	potato
+	sorghum
+	soybean
+	sugarbeet
+	sunflower
+	wheat
+	
+	
 //Version 1.0.0.8
 descVersion erhöt auf 75 (angepasst auf Gameversion 1.10.1.0)
 einige Ampelschaltungen waren nicht korregt 
