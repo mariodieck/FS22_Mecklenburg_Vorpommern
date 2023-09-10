@@ -1,20 +1,21 @@
 //Version 1.0.0.9
 am Güllelager wurde der Zaun etwas angepasst und die Leitpfosten welcher in der Einfahrt stand, entfernt
 Tannen am Weg (Kuhhof) erneuert
+Klee und Luzerne konnte nicht mit dem Ladewagen aufgenommen werden, sowie in das Fahrsilo auf dem Kuhhof gekippt werden.
+Missionen mit Zwiebel, Kohl, Lavendel (Sonderfrüchte) konnten mit keinem Fahrzeug geerntet werden. Hierzu sinde folgende mods notwendig
 neue Pflanzentexturen verbaut
-	barley
-	canola
-	grass
-	groundFoliage
-	maize
-	meadow
-	oat
-	potato
-	sorghum
-	soybean
-	sugarbeet
-	sunflower
-	wheat
+	Gerste
+	Raps
+	Gras
+	Mais
+	Wiese
+	Hafer
+	Kartoffel
+	Sorghum
+	Sojabohne
+	Zuckerrübe
+	Sonnenblume
+	Weizen
 	
 	
 //Version 1.0.0.8
