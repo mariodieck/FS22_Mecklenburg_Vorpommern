@@ -1,3 +1,6 @@
+//Version 1.0.0.9 HotFix
+Bodenwinkel waren fehlerhaft und wurden angepasst
+
 //Version 1.0.0.9
 am Güllelager wurde der Zaun etwas angepasst und die Leitpfosten welcher in der Einfahrt stand, entfernt
 Tannen am Weg (Kuhhof) erneuert
