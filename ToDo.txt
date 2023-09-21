@@ -1,3 +1,13 @@
+//Version 1.1.0.1 
+Grünroggen kann nun nach dem Mähen mit einer Ballenpresse gepresst werden (Rundballen sowie Quaderballen und anschließend gewickelt werden.
+diverse Ballentypen angepasst für Grünroggen
+diverse anpassungen an xml Dateien
+weitere KI Fahrzeuge hinzugefügt
+Nummernschilder der KI Fahrzeuge angepasst
+Ampelsystem nochmal überarbeitet
+
+
+
 //Version 1.1.0.0 
 Grünroggen lässt sich nun mit dem Direktschneitwerk mähen, kommt dann Häckselgut (CHAFF) raus mit MaizePlus GPS
 Ampeln können nun deaktiviert werden
