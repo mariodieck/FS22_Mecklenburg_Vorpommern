@@ -1,3 +1,7 @@
+//Version 1.1.0.2
+Tore der Bergehallen hatten keinen Sound
+KI Verkehr ZT fuhr nicht mehr
+
 //Version 1.1.0.1 
 Grünroggen kann nun nach dem Mähen mit einer Ballenpresse gepresst werden. Rundballen sowie Quaderballen und anschließend gewickelt werden.
 diverse Ballentypen angepasst für Grünroggen
@@ -7,7 +11,7 @@ Nummernschilder der KI Fahrzeuge angepasst
 Klee sowie Luzerne konnte nicht in Fahrsilos abgeladen werden (maizePlus_bunkerSilo.xml muss bei liegen)
 Fahrsilos auf dem Kuhhof sowie auf der BGA können nun inGame verkauft werden
 Ampelsystem nochmal überarbeitet (Probleme mit den Colisionen)
-Ballen am Kuhhof
+Map ist nun zu 100% MaizePlus ready
 
 //Version 1.1.0.0 
 Grünroggen lässt sich nun mit dem Direktschneitwerk mähen, kommt dann Häckselgut (CHAFF) raus mit MaizePlus GPS
