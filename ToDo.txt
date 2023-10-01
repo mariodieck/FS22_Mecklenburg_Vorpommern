@@ -1,6 +1,8 @@
 //Version 1.1.0.2
 Tore der Bergehallen hatten keinen Sound
 KI Verkehr ZT fuhr nicht mehr
+Trigger der Ampeln überarbeitet, AutoDrive reagiert nun ordentlich
+Randsteine auf dem Haupthof ausgebessert
 
 //Version 1.1.0.1 
 Grünroggen kann nun nach dem Mähen mit einer Ballenpresse gepresst werden. Rundballen sowie Quaderballen und anschließend gewickelt werden.
