@@ -3,6 +3,8 @@ Tore der Bergehallen hatten keinen Sound
 KI Verkehr ZT fuhr nicht mehr
 Trigger der Ampeln überarbeitet, AutoDrive reagiert nun ordentlich
 Randsteine auf dem Haupthof ausgebessert
+im Erntekalender war bei Grünroggen kein Erntezeitraum angegeben
+
 
 //Version 1.1.0.1 
 Grünroggen kann nun nach dem Mähen mit einer Ballenpresse gepresst werden. Rundballen sowie Quaderballen und anschließend gewickelt werden.
@@ -15,6 +17,7 @@ Fahrsilos auf dem Kuhhof sowie auf der BGA können nun inGame verkauft werden
 Ampelsystem nochmal überarbeitet (Probleme mit den Colisionen)
 Map ist nun zu 100% MaizePlus ready
 
+
 //Version 1.1.0.0 
 Grünroggen lässt sich nun mit dem Direktschneitwerk mähen, kommt dann Häckselgut (CHAFF) raus mit MaizePlus GPS
 Ampeln können nun deaktiviert werden
@@ -22,6 +25,7 @@ Ampeln können nun deaktiviert werden
 
 //Version 1.0.0.9 HotFix
 Bodenwinkel waren fehlerhaft und wurden angepasst
+
 
 //Version 1.0.0.9
 am Güllelager wurde der Zaun etwas angepasst und die Leitpfosten welcher in der Einfahrt stand, entfernt
