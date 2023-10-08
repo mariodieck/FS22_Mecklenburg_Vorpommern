@@ -1,6 +1,7 @@
 //Version 1.1.0.2 HotFix
 Grünroggen kann man nun mit Directschneidwerken mähen (Funktioniert "NUR" in Verbindung mit maizePlus) sonst kommt Gras raus.
 Hopfen konnte nicht bei der Straulsunder Brauerei abgeliefert werden
+PDA Map komplett erneuert
 
 //Version 1.1.0.2
 Tore der Bergehallen hatten keinen Sound
