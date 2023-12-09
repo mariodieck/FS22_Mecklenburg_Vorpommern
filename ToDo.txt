@@ -1,6 +1,15 @@
+//Version 1.1.0.3
+descVersion erhöt auf 79 (angepasst auf Gameversion 1.13.1.0)
+John Deere 7810 mit besserem Sound hinzugefügt
+Karotten Lavendel und Hopfen entfernt
+Zwiebeln wurden überarbeitet und können nun auch geerntet werden
+Startfahrzeuge etwas geändert
+Map auf Manure System angepasst
+geparkte Fahrzeuge standen zum Teil in Wände
+
 //Version 1.1.0.2 HotFix
 Grünroggen kann man nun mit Directschneidwerken mähen (Funktioniert "NUR" in Verbindung mit maizePlus) sonst kommt Gras raus.
-Hopfen konnte nicht bei der Straulsunder Brauerei abgeliefert werden
+Hopfen konnte nicht bei der Stralsunder Brauerei abgeliefert werden
 PDA Map komplett erneuert
 
 //Version 1.1.0.2
